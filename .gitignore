@@ -2,7 +2,7 @@
 
 /uploads/
 assets/images/*
-assets/yonetim/media/*
+assets/yonetim/assets/media/*
 
 application/cache/*
 !application/cache/index.html
