@@ -1,7 +1,10 @@
 .DS_Store
 
-/uploads/
-/assets/
+uploads/*
+assets/*
+license.txt
+user_guide/
+composer.json
 
 application/cache/*
 !application/cache/index.html
