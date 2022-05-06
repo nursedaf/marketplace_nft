@@ -1,8 +1,7 @@
 .DS_Store
 
 /uploads/
-assets/images/*
-assets/yonetim/assets/media/*
+assets/*
 
 application/cache/*
 !application/cache/index.html
